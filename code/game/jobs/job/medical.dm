@@ -45,7 +45,7 @@
 	department = "Medical"
 	department_flag = MEDSCI
 	faction = "Station"
-	total_positions = 5
+	total_positions = 7
 	spawn_positions = 3
 	supervisors = "the chief medical officer"
 	selection_color = "#013D3B"
