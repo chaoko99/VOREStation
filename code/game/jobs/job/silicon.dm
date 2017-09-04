@@ -36,7 +36,7 @@
 	flag = CYBORG
 	department_flag = ENGSEC
 	faction = "Station"
-	total_positions = 2
+	total_positions = 4
 	spawn_positions = 2
 	supervisors = "your laws and the AI"	//Nodrak
 	selection_color = "#254C25"
