@@ -1015,6 +1015,7 @@ var/list/floor_decals = list()
 /obj/effect/floor_decal/borderfloor
 	name = "border floor"
 	icon_state = "borderfloor"
+	layer = TURF_LAYER + 0.005 //DM is very anal about these things.
 
 /obj/effect/floor_decal/borderfloor/corner
 	icon_state = "borderfloorcorner"
