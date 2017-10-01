@@ -69,8 +69,7 @@ What is the naming convention for planes or layers?
 #define OPENSPACE_PLANE_END -94
 #define OPENSPACE_PLANE_START -75
 #define OPENSPACE_PLANE -77 // /turf/simulated/open will use OPENSPACE_PLANE + z (Valid z's being 2 thru 17)
-
-#define OVER_OPENSPACE_PLANE -7
+#define OVER_OPENSPACE_PLANE -70
 
 /* Not used, but I feel like keeping it here just in case people feel like being... I dunno, timewastey.
 #define BELOW_TURF_PLANE             -22 // objects that are below turfs. Useful for asteroid smoothing or other such magic.
@@ -163,9 +162,9 @@ What is the naming convention for planes or layers?
 	#define ABOVE_PROJECTILE_LAYER  5
 	#define SINGULARITY_LAYER       6
 	#define POINTER_LAYER           7
-
+*/
 #define OBSERVER_PLANE                 -3 // For observers and ghosts
-
+/*
 #define LIGHTING_PLANE 			       -2 // For Lighting. - The highest plane (ignoring all other even higher planes)
 
 	#define LIGHTBULB_LAYER        0
@@ -203,7 +202,7 @@ What is the naming convention for planes or layers?
 
 /image
 	plane = FLOAT_PLANE			// this is defunct, lummox fixed this on recent compilers, but it will bug out if I remove it for coders not on the most recent compile.
-
+/*
 /image/proc/plating_decal_layerise()
 	plane = ABOVE_PLATING_PLANE
 	layer = DECAL_PLATING_LAYER
@@ -211,7 +210,7 @@ What is the naming convention for planes or layers?
 /image/proc/turf_decal_layerise()
 	plane = ABOVE_TURF_PLANE
 	layer = DECAL_LAYER
-
+*/
 /atom/proc/hud_layerise()
 	plane = HUD_PLANE
 	layer = HUD_ITEM_LAYER
@@ -227,7 +226,7 @@ What is the naming convention for planes or layers?
 /obj/screen/plane_master
 	appearance_flags = PLANE_MASTER
 	screen_loc = "CENTER,CENTER"
-	globalscreen = 1
+
 
 /obj/screen/plane_master/ghost_master
 	plane = OBSERVER_PLANE
