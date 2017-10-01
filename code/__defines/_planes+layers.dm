@@ -72,6 +72,7 @@ What is the naming convention for planes or layers?
 
 #define OVER_OPENSPACE_PLANE -7
 
+/* Not used, but I feel like keeping it here just in case people feel like being... I dunno, timewastey.
 #define BELOW_TURF_PLANE             -22 // objects that are below turfs. Useful for asteroid smoothing or other such magic.
 	// TURF_LAYER 2
 
@@ -93,6 +94,7 @@ What is the naming convention for planes or layers?
 	#define BASE_TURF_LAYER -999
 
 #define ABOVE_TURF_PLANE              -18 // For items which should appear above turfs but below other objects and hiding mobs, eg: wires & pipes
+
 
 	#define HOLOMAP_LAYER               1 // NOTE: ENSURE this is equal to the one at ABOVE_PLATING_PLANE!
 	#define DECAL_LAYER                 2
@@ -181,7 +183,7 @@ What is the naming convention for planes or layers?
 	#define BASE_AREA_LAYER 999
 
 #define OBSCURITY_PLANE 		        2 // For visualnets, such as the AI's static.
-
+*/
 #define FULLSCREEN_PLANE                3 // for fullscreen overlays that do not cover the hud.
 
 	#define FULLSCREEN_LAYER    0
