@@ -17,3 +17,10 @@
 	desc = "This slick flesh ripples and squishes under your touch"
 	icon = 'icons/turf/stomach_vr.dmi'
 	icon_base = "flesh_floor"
+
+/decl/flooring/edgepanel
+	name = "lightscreen"
+	desc = "A panel of light,
+	icon = 'icons/turf/flooring/the_edge_flooring.dmi'
+	icon_base 'edge'
+	flags = TURF_HAS_EDGES
