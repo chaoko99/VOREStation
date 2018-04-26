@@ -9,32 +9,32 @@
 "ai" = (/obj/machinery/light{icon_state = "tube1"; dir = 4},/turf/simulated/floor/wood,/area/admin)
 "aj" = (/obj/machinery/light/spot{icon_state = "tube1"; dir = 4},/turf/simulated/open,/area/admin)
 "ak" = (/turf/simulated/floor/tiled/white,/area/admin)
-"al" = (/obj/machinery/door/airlock,/turf/simulated/floor/wood,/area/admin)
+"al" = (/obj/machinery/washing_machine,/turf/simulated/floor/wood,/area/admin)
 "am" = (/obj/machinery/power/apc{dir = 4; name = "east bump"; pixel_x = -24},/obj/machinery/power/fractal_reactor{density = 0; invisibility = 101},/obj/machinery/power/terminal{icon_state = "term"; dir = 8},/turf/simulated/floor/wood,/area/admin)
 "an" = (/turf/unsimulated/wall,/area/admin)
 "ao" = (/obj/machinery/shower{icon_state = "shower"; dir = 4},/turf/simulated/shuttle/floor/white,/area/admin)
-"ap" = (/turf/simulated/shuttle/floor/white,/area/admin)
+"ap" = (/obj/machinery/atmospherics/unary/vent_scrubber/on,/turf/simulated/floor/wood,/area/admin)
 "aq" = (/obj/structure/table/rack/shelf,/obj/fiftyspawner/plasteel,/obj/fiftyspawner/plasteel,/obj/fiftyspawner/plasteel,/obj/fiftyspawner/plasteel,/obj/fiftyspawner/plasteel,/turf/simulated/floor/wood,/area/admin)
 "ar" = (/obj/structure/table/rack/shelf,/obj/fiftyspawner/linoleum,/obj/fiftyspawner/linoleum,/obj/fiftyspawner/linoleum,/obj/fiftyspawner/linoleum,/obj/fiftyspawner/linoleum,/obj/fiftyspawner/linoleum,/turf/simulated/floor/wood,/area/admin)
 "as" = (/obj/structure/table/rack/shelf,/obj/fiftyspawner/floor_steel,/obj/fiftyspawner/floor_steel,/obj/fiftyspawner/floor_steel,/obj/fiftyspawner/floor_steel,/obj/fiftyspawner/floor_yellow,/obj/fiftyspawner/floor_yellow,/turf/simulated/floor/wood,/area/admin)
-"at" = (/obj/machinery/door/airlock/silver,/turf/simulated/floor/wood,/area/admin)
+"at" = (/obj/machinery/atmospherics/unary/vent_pump/on,/turf/simulated/floor/wood,/area/admin)
 "au" = (/obj/machinery/light/flamp,/turf/simulated/floor/wood,/area/admin)
 "av" = (/obj/structure/bed/double/padded,/turf/simulated/floor/wood,/area/admin)
 "aw" = (/obj/machinery/door/airlock/freezer{name = "Bathroom"},/turf/simulated/floor/tiled/white,/area/admin)
 "ax" = (/obj/structure/table/bench/wooden,/turf/simulated/floor/wood,/area/admin)
-"ay" = (/obj/structure/table/woodentable,/turf/simulated/floor/wood,/area/admin)
+"ay" = (/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{icon_state = "intact-scrubbers"; dir = 6},/obj/machinery/atmospherics/pipe/simple/hidden/supply{icon_state = "intact-supply"; dir = 6},/turf/simulated/floor/wood,/area/admin)
 "az" = (/obj/structure/toilet{icon_state = "toilet00"; dir = 4},/turf/simulated/floor/tiled/white,/area/admin)
-"aA" = (/obj/machinery/door/airlock/glass,/turf/simulated/floor/tiled/white,/area/admin)
-"aB" = (/obj/structure/table/rack/shelf,/obj/fiftyspawner/floor,/obj/fiftyspawner/floor,/obj/fiftyspawner/floor,/obj/fiftyspawner/floor,/obj/fiftyspawner/floor_dark,/obj/fiftyspawner/floor_dark,/obj/fiftyspawner/floor_dark,/obj/fiftyspawner/floor_dark,/obj/fiftyspawner/floor_red,/obj/fiftyspawner/floor_red,/obj/fiftyspawner/floor_white,/obj/fiftyspawner/floor_white,/obj/machinery/autolathe,/turf/simulated/floor/wood,/area/admin)
+"aA" = (/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{icon_state = "intact-scrubbers"; dir = 8},/obj/machinery/atmospherics/pipe/simple/hidden/supply{icon_state = "intact-supply"; dir = 4},/turf/simulated/floor/wood,/area/admin)
+"aB" = (/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{icon_state = "intact-scrubbers"; dir = 10},/obj/machinery/atmospherics/pipe/simple/hidden/supply{icon_state = "intact-supply"; dir = 10},/turf/simulated/floor/wood,/area/admin)
 "aC" = (/obj/structure/table/rack/shelf,/obj/fiftyspawner/wood,/obj/fiftyspawner/wood,/obj/fiftyspawner/wood,/obj/fiftyspawner/wood,/obj/fiftyspawner/wood,/obj/fiftyspawner/wood,/turf/simulated/floor/wood,/area/admin)
 "aD" = (/obj/structure/table/rack/shelf,/obj/fiftyspawner/silver,/obj/fiftyspawner/silver,/obj/fiftyspawner/silver,/turf/simulated/floor/wood,/area/admin)
 "aE" = (/obj/structure/table/rack/shelf,/obj/fiftyspawner/rglass,/obj/fiftyspawner/rglass,/obj/fiftyspawner/rglass,/turf/simulated/floor/wood,/area/admin)
 "aF" = (/obj/structure/table/rack/shelf,/obj/fiftyspawner/rods,/obj/fiftyspawner/rods,/obj/fiftyspawner/rods,/obj/fiftyspawner/rods,/obj/fiftyspawner/rods,/turf/simulated/floor/wood,/area/admin)
 "aG" = (/obj/structure/table/rack/shelf,/obj/fiftyspawner/glass,/obj/fiftyspawner/glass,/obj/fiftyspawner/glass,/obj/fiftyspawner/glass,/obj/fiftyspawner/glass,/turf/simulated/floor/wood,/area/admin)
 "aH" = (/obj/item/frame/light,/obj/item/frame/light,/obj/item/frame/light,/obj/item/frame/light,/obj/item/frame/light,/obj/item/frame/light,/obj/item/frame/light,/obj/item/frame/light,/obj/item/frame/light,/obj/item/frame/light,/obj/item/frame/light/small,/obj/item/frame/light/small,/obj/item/frame/light/small,/obj/item/frame/light/small,/obj/item/frame/light/small,/obj/item/frame/light/small,/obj/item/frame/light/small,/obj/item/frame/light/small,/obj/item/weapon/storage/box/lights/tubes,/obj/item/weapon/storage/box/lights/tubes,/obj/item/weapon/storage/box/lights/tubes,/obj/item/weapon/storage/box/lights/tubes,/obj/item/weapon/storage/box/lights/bulbs,/obj/item/weapon/storage/box/lights/bulbs,/obj/item/weapon/storage/box/lights/bulbs,/obj/item/weapon/storage/box/lights/bulbs,/obj/item/weapon/storage/toolbox/syndicate/powertools,/obj/item/weapon/storage/toolbox/syndicate/powertools,/obj/item/weapon/storage/toolbox/syndicate/powertools,/obj/item/weapon/storage/toolbox/syndicate/powertools,/obj/item/weapon/storage/toolbox/syndicate/powertools,/obj/item/weapon/storage/toolbox/syndicate/powertools,/obj/item/weapon/storage/toolbox/syndicate/powertools,/obj/item/weapon/storage/toolbox/syndicate/powertools,/turf/simulated/floor/wood,/area/admin)
-"aI" = (/obj/structure/table/rack/shelf,/obj/fiftyspawner/steel,/obj/fiftyspawner/steel,/obj/fiftyspawner/steel,/turf/simulated/floor/wood,/area/admin)
-"aJ" = (/obj/structure/table/rack/shelf,/obj/fiftyspawner/durasteel,/obj/fiftyspawner/durasteel,/turf/simulated/floor/wood,/area/admin)
-"aK" = (/obj/structure/table/rack/shelf,/obj/fiftyspawner/carpet,/turf/simulated/floor/wood,/area/admin)
+"aI" = (/obj/machinery/light{icon_state = "tube1"; dir = 4},/obj/machinery/atmospherics/unary/vent_scrubber/on,/turf/simulated/floor/wood,/area/admin)
+"aJ" = (/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{icon_state = "intact-scrubbers"; dir = 5},/turf/simulated/floor/wood,/area/admin)
+"aK" = (/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{icon_state = "intact-scrubbers"; dir = 8},/turf/simulated/floor/wood,/area/admin)
 "aL" = (/obj/machinery/light{icon_state = "tube1"; dir = 8},/turf/simulated/floor/tiled/white,/area/admin)
 "aM" = (/obj/structure/mirror{pixel_y = 32},/obj/structure/table/marble,/turf/simulated/floor/tiled/white,/area/admin)
 "aN" = (/obj/structure/sink/kitchen{pixel_y = 32},/obj/structure/table/marble,/turf/simulated/floor/tiled/white,/area/admin)
@@ -46,12 +46,58 @@
 "aT" = (/obj/effect/floor_decal/borderfloorwhite,/turf/simulated/floor/tiled/white,/area/admin)
 "aU" = (/obj/effect/floor_decal/borderfloorwhite/corner{icon_state = "borderfloorcorner_white"; dir = 8},/turf/simulated/floor/tiled/white,/area/admin)
 "aV" = (/obj/structure/railing{icon_state = "railing0"; dir = 8},/turf/simulated/open,/area/admin)
-"aW" = (/obj/machinery/door/airlock{name = "Restroom"},/turf/simulated/floor/tiled/white,/area/admin)
+"aW" = (/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{icon_state = "intact-scrubbers"; dir = 8},/obj/machinery/atmospherics/pipe/simple/hidden/supply{icon_state = "intact-supply"; dir = 5},/turf/simulated/floor/wood,/area/admin)
 "aX" = (/turf/simulated/floor/water,/area/admin)
 "aY" = (/obj/effect/floor_decal/borderfloorwhite{icon_state = "borderfloor_white"; dir = 8},/turf/simulated/floor/tiled/white,/area/admin)
-"aZ" = (/obj/machinery/light{icon_state = "tube1"; dir = 4},/turf/simulated/shuttle/floor/white,/area/admin)
+"aZ" = (/obj/machinery/door/airlock,/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{icon_state = "intact-scrubbers"; dir = 8},/obj/machinery/atmospherics/pipe/simple/hidden/supply{icon_state = "intact-supply"; dir = 4},/turf/simulated/floor/wood,/area/admin)
 "ba" = (/obj/machinery/light/spot,/turf/simulated/open,/area/admin)
 "bb" = (/obj/machinery/light/spot,/obj/machinery/light/spot{icon_state = "tube1"; dir = 4},/turf/simulated/open,/area/admin)
+"bc" = (/obj/machinery/atmospherics/pipe/manifold/hidden/scrubbers{icon_state = "map-scrubbers"; dir = 4},/obj/machinery/atmospherics/pipe/manifold/hidden/supply{icon_state = "map-supply"; dir = 4},/turf/simulated/floor/wood,/area/admin)
+"bd" = (/obj/machinery/atmospherics/pipe/zpipe/down/scrubbers{icon_state = "down-scrubbers"; dir = 1},/obj/machinery/atmospherics/pipe/zpipe/down/supply{icon_state = "down-supply"; dir = 1},/turf/simulated/open,/area/admin)
+"be" = (/obj/machinery/atmospherics/pipe/simple/hidden/supply{icon_state = "intact-supply"; dir = 5},/obj/structure/bedsheetbin,/turf/simulated/floor/wood,/area/admin)
+"bf" = (/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{icon_state = "intact-scrubbers"; dir = 1},/obj/machinery/atmospherics/pipe/simple/hidden/supply{icon_state = "intact-supply"; dir = 10},/turf/simulated/floor/wood,/area/admin)
+"bg" = (/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,/obj/machinery/atmospherics/pipe/simple/hidden/supply,/turf/simulated/floor/wood,/area/admin)
+"bh" = (/obj/machinery/light{icon_state = "tube1"; dir = 4},/turf/simulated/open,/area/admin)
+"bi" = (/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{icon_state = "intact-scrubbers"; dir = 1},/obj/machinery/atmospherics/pipe/simple/hidden/supply,/turf/simulated/floor/wood,/area/admin)
+"bj" = (/obj/structure/table/rack/shelf,/obj/fiftyspawner/floor,/obj/fiftyspawner/floor,/obj/fiftyspawner/floor,/obj/fiftyspawner/floor,/obj/fiftyspawner/floor_dark,/obj/fiftyspawner/floor_dark,/obj/fiftyspawner/floor_dark,/obj/fiftyspawner/floor_dark,/obj/fiftyspawner/floor_red,/obj/fiftyspawner/floor_red,/obj/fiftyspawner/floor_white,/obj/fiftyspawner/floor_white,/obj/machinery/autolathe,/obj/machinery/atmospherics/unary/vent_scrubber/on,/turf/simulated/floor/wood,/area/admin)
+"bk" = (/obj/machinery/light{icon_state = "tube1"; dir = 8},/turf/simulated/floor/wood,/area/admin)
+"bl" = (/obj/machinery/door/airlock,/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{icon_state = "intact-scrubbers"; dir = 1},/obj/machinery/atmospherics/pipe/simple/hidden/supply,/turf/simulated/floor/wood,/area/admin)
+"bm" = (/obj/machinery/light{icon_state = "tube1"; dir = 4},/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{icon_state = "intact-scrubbers"; dir = 1},/turf/simulated/floor/wood,/area/admin)
+"bn" = (/obj/machinery/atmospherics/pipe/manifold/hidden/scrubbers{icon_state = "map-scrubbers"; dir = 8},/obj/machinery/atmospherics/pipe/manifold/hidden/supply{icon_state = "map-supply"; dir = 8},/turf/simulated/floor/wood,/area/admin)
+"bo" = (/obj/machinery/atmospherics/pipe/simple/hidden/supply{icon_state = "intact-supply"; dir = 4},/obj/machinery/atmospherics/pipe/manifold/hidden/scrubbers{icon_state = "map-scrubbers"; dir = 1},/obj/machinery/light{dir = 1},/turf/simulated/floor/wood,/area/admin)
+"bp" = (/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{icon_state = "intact-scrubbers"; dir = 8},/obj/machinery/atmospherics/pipe/manifold/hidden/supply{icon_state = "map-supply"; dir = 1},/turf/simulated/floor/wood,/area/admin)
+"bq" = (/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{icon_state = "intact-scrubbers"; dir = 9},/obj/machinery/atmospherics/pipe/simple/hidden/supply{icon_state = "intact-supply"; dir = 9},/turf/simulated/floor/wood,/area/admin)
+"br" = (/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{icon_state = "intact-scrubbers"; dir = 1},/turf/simulated/floor/wood,/area/admin)
+"bs" = (/obj/machinery/atmospherics/unary/vent_scrubber/on{icon_state = "map_scrubber_on"; dir = 1},/turf/simulated/floor/wood,/area/admin)
+"bt" = (/obj/machinery/atmospherics/unary/vent_pump/on{icon_state = "map_vent_out"; dir = 1},/turf/simulated/floor/wood,/area/admin)
+"bu" = (/obj/structure/table/rack/shelf,/obj/fiftyspawner/steel,/obj/fiftyspawner/steel,/obj/fiftyspawner/steel,/obj/machinery/atmospherics/unary/vent_pump/on{icon_state = "map_vent_out"; dir = 4},/turf/simulated/floor/wood,/area/admin)
+"bv" = (/obj/structure/table/rack/shelf,/obj/fiftyspawner/durasteel,/obj/fiftyspawner/durasteel,/obj/machinery/atmospherics/pipe/simple/hidden/supply{icon_state = "intact-supply"; dir = 4},/turf/simulated/floor/wood,/area/admin)
+"bw" = (/obj/structure/table/rack/shelf,/obj/fiftyspawner/carpet,/obj/machinery/atmospherics/pipe/simple/hidden/supply{icon_state = "intact-supply"; dir = 4},/turf/simulated/floor/wood,/area/admin)
+"bx" = (/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{icon_state = "intact-scrubbers"; dir = 5},/obj/machinery/atmospherics/pipe/simple/hidden/supply{icon_state = "intact-supply"; dir = 4},/turf/simulated/floor/wood,/area/admin)
+"by" = (/obj/machinery/atmospherics/pipe/manifold/hidden/scrubbers{icon_state = "map-scrubbers"; dir = 1},/obj/machinery/atmospherics/pipe/manifold/hidden/supply{icon_state = "map-supply"; dir = 1},/turf/simulated/floor/wood,/area/admin)
+"bz" = (/obj/machinery/door/airlock/silver,/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,/obj/machinery/atmospherics/pipe/simple/hidden/supply,/turf/simulated/floor/wood,/area/admin)
+"bA" = (/obj/machinery/atmospherics/unary/vent_pump/on{icon_state = "map_vent_out"; dir = 4},/turf/simulated/floor/wood,/area/admin)
+"bB" = (/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,/obj/machinery/atmospherics/pipe/manifold4w/hidden/supply,/turf/simulated/floor/wood,/area/admin)
+"bC" = (/obj/machinery/atmospherics/unary/vent_pump/on{icon_state = "map_vent_out"; dir = 8},/turf/simulated/floor/wood,/area/admin)
+"bD" = (/obj/machinery/atmospherics/unary/vent_scrubber/on,/turf/simulated/floor/tiled/white,/area/admin)
+"bE" = (/obj/machinery/atmospherics/pipe/manifold/hidden/scrubbers{icon_state = "map-scrubbers"; dir = 8},/obj/machinery/atmospherics/pipe/simple/hidden/supply{icon_state = "intact-supply"; dir = 5},/turf/simulated/floor/wood,/area/admin)
+"bF" = (/obj/machinery/door/airlock/freezer{name = "Bathroom"},/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{icon_state = "intact-scrubbers"; dir = 8},/obj/machinery/atmospherics/pipe/simple/hidden/supply{icon_state = "intact-supply"; dir = 4},/turf/simulated/floor/tiled/white,/area/admin)
+"bG" = (/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{icon_state = "intact-scrubbers"; dir = 8},/obj/machinery/atmospherics/pipe/simple/hidden/supply{icon_state = "intact-supply"; dir = 4},/turf/simulated/floor/tiled/white,/area/admin)
+"bH" = (/obj/machinery/atmospherics/pipe/manifold/hidden/scrubbers,/obj/machinery/atmospherics/pipe/manifold/hidden/supply{icon_state = "map-supply"; dir = 1},/turf/simulated/floor/tiled/white,/area/admin)
+"bI" = (/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{icon_state = "intact-scrubbers"; dir = 10},/obj/machinery/atmospherics/pipe/simple/hidden/supply{icon_state = "intact-supply"; dir = 10},/turf/simulated/floor/tiled/white,/area/admin)
+"bJ" = (/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,/turf/simulated/floor/wood,/area/admin)
+"bK" = (/obj/machinery/atmospherics/unary/vent_pump/on{icon_state = "map_vent_out"; dir = 1},/turf/simulated/floor/tiled/white,/area/admin)
+"bL" = (/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,/obj/machinery/atmospherics/pipe/simple/hidden/supply,/turf/simulated/floor/tiled/white,/area/admin)
+"bM" = (/obj/structure/table/woodentable,/obj/machinery/computer/security/telescreen,/turf/simulated/floor/wood,/area/admin)
+"bN" = (/obj/machinery/atmospherics/unary/vent_scrubber/on{icon_state = "map_scrubber_on"; dir = 4},/turf/simulated/floor/wood,/area/admin)
+"bO" = (/obj/machinery/atmospherics/pipe/manifold/hidden/scrubbers,/turf/simulated/floor/wood,/area/admin)
+"bP" = (/obj/machinery/atmospherics/unary/vent_scrubber/on{icon_state = "map_scrubber_on"; dir = 8},/turf/simulated/floor/wood,/area/admin)
+"bQ" = (/obj/machinery/door/airlock/glass,/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,/obj/machinery/atmospherics/pipe/simple/hidden/supply,/turf/simulated/floor/tiled/white,/area/admin)
+"bR" = (/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{icon_state = "intact-scrubbers"; dir = 5},/obj/machinery/atmospherics/pipe/simple/hidden/supply,/turf/simulated/shuttle/floor/white,/area/admin)
+"bS" = (/obj/machinery/light{icon_state = "tube1"; dir = 4},/obj/machinery/atmospherics/unary/vent_pump/on{icon_state = "map_vent_out"; dir = 8},/turf/simulated/shuttle/floor/white,/area/admin)
+"bT" = (/obj/machinery/atmospherics/pipe/simple/hidden/supply{icon_state = "intact-supply"; dir = 5},/turf/simulated/shuttle/floor/white,/area/admin)
+"bU" = (/obj/machinery/atmospherics/unary/vent_scrubber/on{icon_state = "map_scrubber_on"; dir = 8},/turf/simulated/shuttle/floor/white,/area/admin)
+"bV" = (/turf/unsimulated/shuttle/floor,/area/admin)
 
 (1,1,1) = {"
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
@@ -68,22 +114,22 @@ aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaab
 abababababababababababababababababababababababababababababababab
 abananananananananananananananananananananananananananananananan
 acafafafafafafafafafafafafafadadadadadadadadadadadadadadadadaean
-afagagagaiafagagagagafagagafahahahahahahahahahahahahahahahahajan
-afagagagagafagagagagafagaiafahahahahahahahahahahahahahahahahajan
-afagagagagalagagafahafagagafahahahahahahahahahahahahahahahahajan
-afafafafafafagagafahafamagafahahahahahahahahahahahahahahahahajan
-afaqarasaBafagagafafafafalafafahahahahahahahahahahahahahahahajan
-afaCagagaiafagagagagagagagagafahahahahahahahahahahahahahahahajan
-afaDaEaFagafagagagagagagagagafahahahahahahahahahahahahahahahajan
-afaGaHagagafagagagagagagagagafahahahahahahahahahahahahahahahajan
-afaIaJaKagalagagagagagagagagafahahahahahahahahahahahahahahahajan
-afafafafafafatafafafafafafafafafahahahahahahahahahahahahahahajan
-afauagavagagagagafaLakaMaNaOakaPaQaQahahahahahahahahahahahahajan
-afagagagagagagagawakakakakakakawakakaRaQaQahahahahahahahahahajan
-afaxayagagagagaiafafafakakakaSafaTaTaTaTaUaVahahahahahahahahajan
-afaxayagagagagagafazaWakakakaSafaXaXaXaXaYaVahahahahahahahahajan
-afafafafafafafafafafafafafaAafafaXaXaXaXaYaVahahahahahahahahajan
-anahahahahahahahahahahafaoapaZafaXaXaXaXaYaVahahahahahahahahajan
-anahahahahahahahahahahafaoapapafafafafafafahbababababababababban
+afagagagaiafagagagagafalalafahahahahahahahahahahahahahahahahajan
+afapagagatafagayaAaBafataIafahahahahahahahahahahahahahahahahajan
+afaJaKaKaWaZaAbcafbdafbebfafahahahahahahahahahahahahahahahahajan
+afafafafafafagbgafbhafambiafahahahahahahahahahahahahahahahahajan
+afaqarasbjafbkbgafafafafblafafahahahahahahahahahahahahahahahajan
+afaCagagbmafagbnaAbobpaAbqagafahahahahahahahahahahahahahahahajan
+afaDaEaFbrafagbgagbsbtagagagafahahahahahahahahahahahahahahahajan
+afaGaHagbrafagbgagagagagagagafahahahahahahahahahahahahahahahajan
+afbubvbwbxaZbybqagagagagagagafahahahahahahahahahahahahahahahajan
+afafafafafafbzafafafafafafafafafahahahahahahahahahahahahahahajan
+afauagavagbAbBbCafaLbDaMaNaOakaPaQaQahahahahahahahahahahahahajan
+afagagagagagbEaAbFbGbHbGbGbIakawakakaRaQaQahahahahahahahahahajan
+afagagagagagbJaiafakbKakakbLaSafaTaTaTaTaUaVahahahahahahahahajan
+afaxbMagagbNbObPafazakakakbLaSafaXaXaXaXaYaVahahahahahahahahajan
+afafafafafafafafafafafafafbQafafaXaXaXaXaYaVahahahahahahahahajan
+anbVbVbVbVbVbVbVbVbVbVafaobRbSafaXaXaXaXaYaVahahahahahahahahajan
+anbVbVbVbVbVbVbVbVbVbVafaobTbUafafafafafafahbababababababababban
 anananananananananananafafafafafanananananananananananananananan
 "}

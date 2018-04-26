@@ -1,75 +1,101 @@
-"a" = (/turf/space,/area/space)
-"b" = (/turf/space,/area/aisat)
-"c" = (/turf/unsimulated/wall,/area/space)
-"d" = (/turf/unsimulated/wall,/area/aisat)
-"e" = (/turf/simulated/wall/titanium,/area/admin)
-"f" = (/turf/unsimulated/wall,/area/admin)
-"g" = (/obj/structure/closet/secure_closet/freezer/fridge,/turf/simulated/floor/tiled/white,/area/admin)
-"h" = (/obj/machinery/light{dir = 1},/turf/simulated/floor/tiled/white,/area/admin)
-"i" = (/turf/simulated/floor/tiled/white,/area/admin)
-"j" = (/obj/structure/toilet{icon_state = "toilet00"; dir = 8},/turf/simulated/floor/tiled/white,/area/admin)
-"k" = (/obj/machinery/light/spot{icon_state = "tube1"; dir = 1},/turf/simulated/floor/grass,/area/admin)
-"l" = (/obj/machinery/light/spot{icon_state = "tube1"; dir = 1},/turf/simulated/floor/grass,/area/aisat)
-"m" = (/obj/machinery/light/spot{icon_state = "tube1"; dir = 1},/turf/simulated/floor/grass,/area/space)
-"n" = (/obj/machinery/light/spot{icon_state = "tube1"; dir = 1},/obj/machinery/light/spot{icon_state = "tube1"; dir = 4},/turf/simulated/floor/grass,/area/space)
-"o" = (/obj/structure/table/marble,/turf/simulated/floor/tiled/white,/area/admin)
-"p" = (/obj/machinery/door/airlock,/turf/simulated/floor/tiled/white,/area/admin)
-"q" = (/turf/simulated/floor/grass,/area/admin)
-"r" = (/turf/simulated/floor/grass,/area/aisat)
-"s" = (/turf/simulated/floor/grass,/area/space)
-"t" = (/obj/machinery/light/spot{icon_state = "tube1"; dir = 4},/turf/simulated/floor/grass,/area/space)
-"u" = (/obj/machinery/alarm{dir = 4; icon_state = "alarm0"; pixel_x = -22},/turf/simulated/floor/tiled/white,/area/admin)
-"v" = (/obj/machinery/light{icon_state = "tube1"; dir = 4},/obj/structure/table/marble,/turf/simulated/floor/tiled/white,/area/admin)
-"w" = (/obj/structure/stairs/north,/turf/simulated/floor/wood,/area/admin)
-"x" = (/obj/structure/mirror{pixel_x = 32},/obj/structure/sink{dir = 4; icon_state = "sink"; pixel_x = 12},/turf/simulated/floor/tiled/white,/area/admin)
-"y" = (/turf/simulated/floor/wood,/area/admin)
-"z" = (/obj/structure/table/marble,/obj/structure/window/basic,/turf/simulated/floor/tiled/white,/area/admin)
-"A" = (/obj/machinery/door/airlock{name = "Restroom"},/turf/simulated/floor/tiled/white,/area/admin)
-"B" = (/obj/machinery/light{dir = 1},/turf/simulated/floor/wood,/area/admin)
-"C" = (/obj/machinery/light{icon_state = "tube1"; dir = 8},/turf/simulated/floor/wood,/area/admin)
-"D" = (/obj/machinery/alarm{dir = 4; icon_state = "alarm0"; pixel_x = -22},/turf/simulated/floor/wood,/area/admin)
-"E" = (/turf/simulated/floor/carpet,/area/admin)
-"F" = (/obj/machinery/power/apc{dir = 4; name = "east bump"; pixel_x = -24},/obj/machinery/power/terminal{icon_state = "term"; dir = 8},/obj/machinery/power/fractal_reactor{density = 0; invisibility = 101},/turf/simulated/floor/tiled/dark,/area/admin)
-"G" = (/obj/structure/table/rack,/obj/machinery/light/small{icon_state = "bulb1"; dir = 8},/turf/simulated/floor/tiled/dark,/area/admin)
-"H" = (/obj/structure/simple_door/wood,/turf/simulated/floor/tiled/dark,/area/admin)
-"I" = (/obj/structure/coatrack,/turf/simulated/floor/wood,/area/admin)
-"J" = (/obj/machinery/light/flamp,/turf/simulated/floor/carpet,/area/admin)
-"K" = (/obj/effect/landmark{name = "JoinLate"},/turf/simulated/floor/wood,/area/admin)
-"L" = (/obj/machinery/light/spot,/turf/simulated/floor/grass,/area/admin)
-"M" = (/obj/machinery/light/spot,/turf/simulated/floor/grass,/area/space)
-"N" = (/obj/machinery/light/spot{icon_state = "tube1"; dir = 4},/obj/machinery/light/spot,/turf/simulated/floor/grass,/area/space)
+"aa" = (/turf/space,/area/space)
+"ab" = (/turf/space,/area/aisat)
+"ac" = (/turf/unsimulated/wall,/area/space)
+"ad" = (/obj/machinery/light/spot{icon_state = "tube1"; dir = 1},/obj/machinery/light/spot{icon_state = "tube1"; dir = 4},/turf/simulated/floor/grass,/area/admin)
+"ae" = (/turf/simulated/wall/titanium,/area/admin)
+"af" = (/turf/unsimulated/wall,/area/admin)
+"ag" = (/obj/structure/closet/secure_closet/freezer/fridge,/turf/simulated/floor/tiled/white,/area/admin)
+"ah" = (/obj/machinery/light{dir = 1},/turf/simulated/floor/tiled/white,/area/admin)
+"ai" = (/turf/simulated/floor/tiled/white,/area/admin)
+"aj" = (/obj/machinery/cooker/oven,/turf/simulated/floor/tiled/white,/area/admin)
+"ak" = (/obj/machinery/light/spot{icon_state = "tube1"; dir = 1},/turf/simulated/floor/grass,/area/admin)
+"al" = (/obj/machinery/light/spot{icon_state = "tube1"; dir = 4},/turf/simulated/floor/grass,/area/admin)
+"am" = (/obj/machinery/light/spot{icon_state = "tube1"; dir = 4},/obj/machinery/light/spot,/turf/simulated/floor/grass,/area/admin)
+"ao" = (/obj/structure/table/marble,/turf/simulated/floor/tiled/white,/area/admin)
+"ap" = (/obj/machinery/atmospherics/unary/vent_pump/on,/obj/machinery/alarm{dir = 4; icon_state = "alarm0"; pixel_x = -22},/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{icon_state = "intact-scrubbers"; dir = 6},/turf/simulated/floor/tiled/white,/area/admin)
+"aq" = (/turf/simulated/floor/grass,/area/admin)
+"au" = (/obj/machinery/door/airlock,/obj/machinery/atmospherics/pipe/simple/hidden/supply,/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,/turf/simulated/floor/tiled/white,/area/admin)
+"av" = (/obj/structure/toilet{icon_state = "toilet00"; dir = 8},/obj/machinery/atmospherics/unary/vent_scrubber/on{icon_state = "map_scrubber_on"; dir = 8},/turf/simulated/floor/tiled/white,/area/admin)
+"aw" = (/obj/machinery/atmospherics/portables_connector,/obj/machinery/portable_atmospherics/canister/empty,/turf/simulated/floor/tiled/dark,/area/admin)
+"ax" = (/obj/structure/table/marble,/obj/machinery/alarm{dir = 4; icon_state = "alarm0"; pixel_x = -22},/turf/simulated/floor/tiled/white,/area/admin)
+"ay" = (/turf/simulated/floor/wood,/area/admin)
+"az" = (/obj/structure/table/marble,/obj/structure/window/basic,/turf/simulated/floor/tiled/white,/area/admin)
+"aA" = (/obj/structure/table/marble,/obj/structure/sink/kitchen{dir = 4; icon_state = "sink_alt"; pixel_x = -12},/turf/simulated/floor/tiled/white,/area/admin)
+"aB" = (/obj/machinery/alarm{dir = 4; icon_state = "alarm0"; pixel_x = -22},/obj/machinery/atmospherics/pipe/simple/hidden/supply,/obj/machinery/atmospherics/pipe/manifold/hidden/scrubbers{icon_state = "map-scrubbers"; dir = 8},/turf/simulated/floor/tiled/white,/area/admin)
+"aC" = (/obj/machinery/light{icon_state = "tube1"; dir = 8},/turf/simulated/floor/wood,/area/admin)
+"aD" = (/obj/machinery/alarm{dir = 4; icon_state = "alarm0"; pixel_x = -22},/turf/simulated/floor/wood,/area/admin)
+"aE" = (/turf/simulated/floor/carpet,/area/admin)
+"aF" = (/obj/machinery/power/apc{dir = 4; name = "east bump"; pixel_x = -24},/obj/machinery/power/terminal{icon_state = "term"; dir = 8},/obj/machinery/power/fractal_reactor{density = 0; invisibility = 101},/turf/simulated/floor/tiled/dark,/area/admin)
+"aG" = (/obj/machinery/atmospherics/pipe/tank/air,/turf/simulated/floor/tiled/dark,/area/admin)
+"aH" = (/obj/structure/simple_door/wood,/turf/simulated/floor/tiled/dark,/area/admin)
+"aI" = (/obj/structure/coatrack,/turf/simulated/floor/wood,/area/admin)
+"aJ" = (/obj/structure/stairs/north,/obj/machinery/atmospherics/pipe/zpipe/up/scrubbers,/obj/machinery/atmospherics/pipe/zpipe/up/supply,/turf/simulated/floor/wood,/area/admin)
+"aK" = (/obj/effect/landmark{name = "JoinLate"},/turf/simulated/floor/wood,/area/admin)
+"aL" = (/obj/machinery/light/spot,/turf/simulated/floor/grass,/area/admin)
+"aO" = (/obj/machinery/light{icon_state = "tube1"; dir = 4},/obj/structure/table/marble,/obj/machinery/atmospherics/unary/vent_scrubber/on{icon_state = "map_scrubber_on"; dir = 8},/turf/simulated/floor/tiled/white,/area/admin)
+"aP" = (/obj/structure/mirror{pixel_x = 32},/obj/structure/sink{dir = 4; icon_state = "sink"; pixel_x = 12},/obj/machinery/atmospherics/unary/vent_pump/on{icon_state = "map_vent_out"; dir = 8},/turf/simulated/floor/tiled/white,/area/admin)
+"aQ" = (/obj/machinery/atmospherics/pipe/simple/hidden/universal,/turf/simulated/floor/tiled/dark,/area/admin)
+"aR" = (/obj/structure/bed/chair/wood{icon_state = "wooden_chair"; dir = 4},/turf/simulated/floor/wood,/area/admin)
+"aS" = (/obj/structure/table/woodentable,/turf/simulated/floor/wood,/area/admin)
+"aT" = (/obj/structure/bed/chair/wood{icon_state = "wooden_chair"; dir = 8},/turf/simulated/floor/wood,/area/admin)
+"aU" = (/obj/structure/table/rack,/obj/machinery/light/small{icon_state = "bulb1"; dir = 8},/obj/machinery/alarm{dir = 4; icon_state = "alarm0"; pixel_x = -22},/turf/simulated/floor/tiled/dark,/area/admin)
+"aV" = (/obj/machinery/atmospherics/pipe/manifold/hidden/supply{icon_state = "map-supply"; dir = 8},/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,/turf/simulated/floor/tiled/white,/area/admin)
+"aW" = (/obj/machinery/atmospherics/pipe/simple/hidden/supply,/turf/simulated/floor/wood,/area/admin)
+"aX" = (/obj/machinery/alarm{dir = 4; icon_state = "alarm0"; pixel_x = -22},/obj/machinery/atmospherics/pipe/simple/hidden/supply{icon_state = "intact-supply"; dir = 5},/turf/simulated/floor/tiled/dark,/area/admin)
+"aY" = (/obj/machinery/atmospherics/pipe/simple/hidden/supply{icon_state = "intact-supply"; dir = 10},/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,/turf/simulated/floor/tiled/dark,/area/admin)
+"aZ" = (/obj/structure/table/marble,/obj/structure/window/basic,/obj/machinery/microwave,/turf/simulated/floor/tiled/white,/area/admin)
+"ba" = (/obj/machinery/door/airlock{name = "Restroom"},/obj/machinery/atmospherics/pipe/simple/hidden/supply,/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,/turf/simulated/floor/tiled/white,/area/admin)
+"bb" = (/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,/obj/machinery/atmospherics/pipe/simple/hidden/supply,/turf/simulated/floor/wood,/area/admin)
+"bc" = (/obj/machinery/atmospherics/pipe/simple/hidden/supply,/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,/turf/simulated/floor/tiled/dark,/area/admin)
+"bd" = (/obj/machinery/atmospherics/unary/vent_scrubber/on{icon_state = "map_scrubber_on"; dir = 4},/turf/simulated/floor/wood,/area/admin)
+"be" = (/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{icon_state = "intact-scrubbers"; dir = 8},/turf/simulated/floor/wood,/area/admin)
+"bf" = (/obj/machinery/atmospherics/pipe/manifold/hidden/scrubbers,/obj/machinery/atmospherics/pipe/simple/hidden/supply{icon_state = "intact-supply"; dir = 5},/turf/simulated/floor/wood,/area/admin)
+"bg" = (/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{icon_state = "intact-scrubbers"; dir = 8},/obj/machinery/atmospherics/pipe/simple/hidden/supply{icon_state = "intact-supply"; dir = 4},/turf/simulated/floor/wood,/area/admin)
+"bh" = (/obj/machinery/light{dir = 1},/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{icon_state = "intact-scrubbers"; dir = 8},/obj/machinery/atmospherics/pipe/simple/hidden/supply{icon_state = "intact-supply"; dir = 4},/turf/simulated/floor/wood,/area/admin)
+"bi" = (/obj/machinery/atmospherics/pipe/manifold/hidden/scrubbers,/obj/machinery/atmospherics/pipe/manifold/hidden/supply,/turf/simulated/floor/wood,/area/admin)
+"bj" = (/obj/machinery/light{dir = 1},/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{icon_state = "intact-scrubbers"; dir = 8},/obj/machinery/atmospherics/pipe/manifold/hidden/supply{icon_state = "map-supply"; dir = 1},/turf/simulated/floor/wood,/area/admin)
+"bk" = (/obj/machinery/door/firedoor,/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{icon_state = "intact-scrubbers"; dir = 8},/obj/machinery/atmospherics/pipe/simple/hidden/supply{icon_state = "intact-supply"; dir = 4},/turf/simulated/floor/tiled/dark,/area/admin)
+"bl" = (/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{icon_state = "intact-scrubbers"; dir = 9},/obj/machinery/atmospherics/pipe/simple/hidden/supply{icon_state = "intact-supply"; dir = 9},/turf/simulated/floor/tiled/dark,/area/admin)
+"bm" = (/obj/machinery/atmospherics/unary/vent_pump/on{icon_state = "map_vent_out"; dir = 1},/turf/simulated/floor/wood,/area/admin)
+"bn" = (/obj/machinery/door/airlock/multi_tile/metal,/turf/simulated/floor/wood,/area/admin)
+"bo" = (/obj/effect/wingrille_spawn,/turf/simulated/floor/plating,/area/admin)
+"bp" = (/obj/machinery/light/spot{dir = 1; icon_state = "tube1"; invisibility = 101},/turf/simulated/floor/grass,/area/admin)
+"bq" = (/obj/structure/bed/chair/comfy{icon_state = "comfychair_preview"; dir = 4},/turf/simulated/floor/carpet,/area/admin)
+"br" = (/obj/machinery/computer/security/telescreen{pixel_x = 32},/turf/simulated/floor/carpet,/area/admin)
+"bs" = (/obj/machinery/light,/turf/simulated/floor/carpet,/area/admin)
+"bt" = (/obj/machinery/atmospherics/pipe/simple/hidden/universal,/obj/machinery/light/small{icon_state = "bulb1"; dir = 8},/turf/simulated/floor/tiled/dark,/area/admin)
 
 (1,1,1) = {"
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-aaaaaaaabbbbbbbbbbbbbbbaaaaaaaaa
-aaaaaaaabbbbbbbbbbbbbbbaaaaaaaaa
-aaaaaaaabbbbbbbbbbbbbbbaaaaaaaaa
-aaaaaaaabbbbbbbbbbbbbbbaaaaaaaaa
-ccccccccddbbbbbbbbbbbbbaaaaaaaaa
-eeeeeeeeeffffffddddddddcccccccca
-eghiieijekkkkkkllllllllmmmmmmnca
-eoiiiepeeeeqqqqrrrrrrrrsssssstca
-eoiiieuveweqqqqrrrrrrrrsssssstca
-eoiiieixeyeqqqqrrrrrrrrsssssstca
-eiizzeAeeyeeeeerrrrrrrrsssssstca
-eyyyyyyyByByyyerrrrrrrrsssssstca
-eyyyyyyyyyyyyyerrrrrrrrsssssstca
-eCyyyyyyyyyyyyerrrrrrrrsssssstca
-eyyyyyyyyyyyyyerrrrrrrrsssssstca
-eDyyyyyyyyyyyyerrrrsssssssssstca
-eeeyyyyEEEEEEEerrrrsssssssssstca
-eFeyyyyEEEEEEEerrrrsssssssssstca
-eGHyyIyEEEEEEJerrrrsssssssssstca
-eeeyyeeeeeeeeeerrrrsssssssssstca
-ffeKKeqqqqqqqqqrrrrsssssssssstca
-ffeKKeLLLLLLLLLMMMMMMMMMMMMMMNca
-fffffffffffffffcccccccccccccccca
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaababababababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaabababababababaaaaaaaaabababaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaabababababaaaaaaababababababaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaabaaaaaaaaabababababababababaaaaaaaaaaaaaaaaaaaa
+acacacacacacacacacacaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aeaeaeaeaeaeaeaeaeafafafafafafafafafafafafafafafafafafafafafafaa
+aeagahajaoaeapavaeakaeaeaeaeakakakakakakakakakakakakakakakadafaa
+aeaxaiaiaoaeauaeaeaeaeaGawaeaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqalafaa
+aeaAaiaiaoaeaBaOaeaJaebtaQaeaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqalafaa
+aeaoaiaiaoaeaVaPaeaWaeaXaYaeaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqalafaa
+aeaiaiaZazaebaaeaebbaeaebcaeaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqalafaa
+aebdbebebebebfbgbhbibjbkblaeaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqalafaa
+aeayayayayayayayayaybmaeaeaeaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqalafaa
+aeaCaRaSaTayayayayayayboaqbpaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqalafaa
+aeayayayayayayayayayayboaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqalafaa
+aeaDayayayayayayayayayaeaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqalafaa
+aeaeaeayayayayaEaEaEaEaeaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqalafaa
+aeaFaeayayayayaEbqaEbraeaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqalafaa
+aeaUaHayayaIayaEbsaEaEaeaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqalafaa
+aeaeaebnayaeaeaeaeaeaeaeaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqalafaa
+afafaeaKaKaeaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqalafaa
+afafaeaKaKaeaLaLaLaLaLaLaLaLaLaLaLaLaLaLaLaLaLaLaLaLaLaLaLamafaa
+afafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaa
 "}
